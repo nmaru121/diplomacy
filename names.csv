@@ -1,0 +1,78 @@
+Name, code
+# Russia
+Sevastopol, SEVC
+Moscow, MOSL
+Warsaw, WAWL
+St Petersberg Land, STPL
+St Petersberg South Coast, STPCS
+St Petersberg North Coast, STPCN
+
+# Turkey
+Ankara, ANKC
+Constantinople, CONC
+Smyrna, SMYC
+
+# Austria
+Budapest, BUDL
+Vienna, WIEL
+Trieste, TRIC
+
+# Germany
+Berlin, BERC
+Kiel, KIEC
+Munich, MUNL
+
+# Italy
+Venice, VENC
+Rome, ROMC
+Naples, NAPC
+
+# Balkans
+Rumania, RUMC
+Bulgaria Land, BULL
+Bulgaria North Coast, BULCN
+Bulgaria South Coast, BULCS
+Greece, GREC
+Serbia, SRBL
+Albania, ALBC
+
+# East-Central
+Prussia, PRUC
+Silesia, SILL
+Galicia, GALL
+Ukraine, UKRL
+Bohemia, BOHL
+Livonia, LIVC
+
+# West-Central
+Tyrolia, TYRL
+Burgundy, BURL
+Ruhr, RUHL
+Holland, HOLC
+Belgium, BELC
+
+# Scandinavia
+Denmark, DENC
+
+# Other Land
+Armenia, ARMC
+Clyde, CLYC
+Liverpool, LPLC
+Finland, FINC
+Norway, NOWC
+Syria, SYRC
+
+# Seas
+Adriatic Sea, ADRS
+Ionian Sea, IONS
+Aegean Sea, AEGS
+Gulf of Bothnia, BOTS
+North Atlantic Ocean, NAOS
+Irish Sea, IRIS
+Black Sea, BLAS
+Barents Sea, BARS
+Eastern Mediterranean Sea, EMSS
+Baltic Sea, BALS
+Mid-Atlantic Ocean, MAOS
+Norweigian Sea, NOWS
+Helgoland Bight, HELS
