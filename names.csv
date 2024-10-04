@@ -1,78 +1,105 @@
 Name, code
 # Russia
-Sevastopol, SEVC
-Moscow, MOSL
-Warsaw, WAWL
-St Petersberg Land, STPL
-St Petersberg South Coast, STPCS
-St Petersberg North Coast, STPCN
+Sevastopol,SEVC
+Moscow,MOSL
+Warsaw,WAWL
+St Petersberg Land,STPL
+St Petersberg South Coast,STPCS
+St Petersberg North Coast,STPCN
 
 # Turkey
-Ankara, ANKC
-Constantinople, CONC
-Smyrna, SMYC
+Ankara,ANKC
+Constantinople,CONC
+Smyrna,SMYC
 
 # Austria
-Budapest, BUDL
-Vienna, WIEL
-Trieste, TRIC
+Budapest,BUDL
+Vienna,WIEL
+Trieste,TRIC
 
 # Germany
-Berlin, BERC
-Kiel, KIEC
-Munich, MUNL
+Berlin,BERC
+Kiel,KIEC
+Munich,MUNL
 
 # Italy
-Venice, VENC
-Rome, ROMC
-Naples, NAPC
+Venice,VENC
+Rome,ROMC
+Naples,NAPC
+
+# France
+Marseilles,MARC
+Paris,PARL
+Brest,BREC
+
+# UK
+London,LONC
+Liverpool,LPLC
+Edinburgh,EDIC
 
 # Balkans
-Rumania, RUMC
-Bulgaria Land, BULL
-Bulgaria North Coast, BULCN
-Bulgaria South Coast, BULCS
-Greece, GREC
-Serbia, SRBL
-Albania, ALBC
+Rumania,RUMC
+Bulgaria Land,BULL
+Bulgaria North Coast,BULCN
+Bulgaria South Coast,BULCS
+Greece,GREC
+Serbia,SRBL
+Albania,ALBC
 
 # East-Central
-Prussia, PRUC
-Silesia, SILL
-Galicia, GALL
-Ukraine, UKRL
-Bohemia, BOHL
-Livonia, LIVC
+Prussia,PRUC
+Silesia,SILL
+Galicia,GALL
+Ukraine,UKRL
+Bohemia,BOHL
+Livonia,LIVC
 
 # West-Central
-Tyrolia, TYRL
-Burgundy, BURL
-Ruhr, RUHL
-Holland, HOLC
-Belgium, BELC
+Tyrolia,TYRL
+Burgundy,BURL
+Ruhr,RUHL
+Holland,HOLC
+Belgium,BELC
+
+# South-Central
+Tuscany,TUSC
+Apulia,APUC
+Piedmont,PIEC
+
+# Western Europe
+Picardy,PICC
+Gascony,GASC
+Spain Land,SPAL
+Spain North,SPACN
+Spain South,SPACS
 
 # Scandinavia
-Denmark, DENC
+Denmark,DENC
 
 # Other Land
-Armenia, ARMC
-Clyde, CLYC
-Liverpool, LPLC
-Finland, FINC
-Norway, NOWC
-Syria, SYRC
+Yorkshire,YORC
+Wales,WALL
+Clyde,CLYC
+Armenia,ARMC
+Finland,FINC
+Norway,NOWC
+Syria,SYRC
 
 # Seas
-Adriatic Sea, ADRS
-Ionian Sea, IONS
-Aegean Sea, AEGS
-Gulf of Bothnia, BOTS
-North Atlantic Ocean, NAOS
-Irish Sea, IRIS
-Black Sea, BLAS
-Barents Sea, BARS
-Eastern Mediterranean Sea, EMSS
-Baltic Sea, BALS
-Mid-Atlantic Ocean, MAOS
-Norweigian Sea, NOWS
-Helgoland Bight, HELS
+Tyrrhenian Sea,TYRS
+Gulf of Lyon,LYOS
+English Channel,CHAS
+North Sea,NORS
+Adriatic Sea,ADRS
+Ionian Sea,IONS
+Aegean Sea,AEGS
+Gulf of Bothnia,BOTS
+North Atlantic Ocean,NAOS
+Irish Sea,IRIS
+Black Sea,BLAS
+Barents Sea,BARS
+Eastern Mediterranean Sea,EMSS
+Baltic Sea,BALS
+Mid-Atlantic Ocean,MAOS
+Norweigian Sea,NOWS
+Helgoland Bight,HELS
